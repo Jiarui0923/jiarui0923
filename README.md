@@ -1,15 +1,15 @@
-## Jiarui (Jerry) LI
+# Jiarui (Jerry) LI
 Computer Science Ph.D. Student from Tulane University. I am interested in using explainable machine learning to model adaptive immune system.
 
 `Immunoinformatics` `Machine Learning` `Bioinformatics` `Computational Biology` `Immunology` `Algorithm Optimization`
 
 
-🏠Address: Chongqing, China
-🏢Office: Paul Hall 309, Tulane University
-📫E-mail: jli78@tulane.edu / me@jiarui.li  
-🔗Github: https://github.com/jiarui0923/
-🔗Linkedin: https://www.linkedin.com/in/li-jiarui/
-📝Website: http://jiarui.li / http://jiarui-li.com
+🏠Address: Chongqing, China  
+🏢Office: Paul Hall 309, Tulane University  
+📫E-mail: jli78@tulane.edu / me@jiarui.li   
+🔗Github: https://github.com/jiarui0923/  
+🔗Linkedin: https://www.linkedin.com/in/li-jiarui/  
+📝Website: http://jiarui.li / http://jiarui-li.com  
 
 ## 💠Education
 <table style='border:0; padding:10px;'>
